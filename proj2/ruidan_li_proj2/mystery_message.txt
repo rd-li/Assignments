@@ -1,0 +1,12 @@
+According to the DTMF wikipedia site and the 7 result files, we can find the following result:
+
+tone1:  765, 1203   4   GHI
+tone2:  765, 1484   6   MNO
+tone3:  703, 1484   3   DEF
+tone4:  703, 1484   3   DEF
+tone5:  703, 1328   2   ABC
+tone6:  703, 1328   2   ABC
+tone7:  859, 1203   7   PRS
+
+mystery message:
+Go deacs
