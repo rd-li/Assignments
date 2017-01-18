@@ -1,4 +1,4 @@
-CSC222
+Course
 =============================
 data structure and algorithm
 
