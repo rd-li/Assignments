@@ -2,10 +2,10 @@ Course
 =============================
 data structure and algorithm
 
-proj1: sorting
-proj2: fft
-proj3: huffman encoding
-proj4: dynamic programming
+proj1: sorting\n
+proj2: fft\n
+proj3: huffman encoding\n
+proj4: dynamic programming\n
 
 Academic integrity
 =============================
